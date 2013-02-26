@@ -4,7 +4,7 @@ public class GitTest {
 
 
 	public static void main(String[] args) {
-		System.out.println("Jetzt habe ich noch etwas geändert");
+		System.out.println("Jetzt habe ich noch etwas an der Ausgabe geändert");
 
 	}
 
